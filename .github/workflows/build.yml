@@ -26,7 +26,8 @@ on:
           - x86_64
           - jcg-q20
           - wr1200js
-
+          - K2P
+          - newifiD1
   schedule:
     - cron: '0 12 * * 0'  # 每周日 12:00 UTC (北京时间 20:00)
 
